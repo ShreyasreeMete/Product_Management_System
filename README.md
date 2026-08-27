@@ -712,146 +712,56 @@ order_items
 
 # 📸 Execution & Output Screenshots
 
-The following screenshots demonstrate the successful execution of the project in **MySQL Workbench**.
+The following screenshots demonstrate the successful execution of the project in **MySQL Shell**.
 
-## 1. Database Creation
+<img width="1902" height="921" alt="Output_image1" src="https://github.com/user-attachments/assets/159ad35c-d63b-4364-9166-cacf7808cc4e" />
 
-**Query:**
+<img width="1912" height="921" alt="Output_image2" src="https://github.com/user-attachments/assets/2e43a0ab-47e1-4874-bc50-2a106bba34ab" />
 
-```sql
-CREATE DATABASE product_management;
-USE product_management;
-```
+<img width="1911" height="790" alt="Output_image3" src="https://github.com/user-attachments/assets/cd5934e0-2b0e-40d6-ae2c-baa91ff5a467" />
 
-**Output Screenshot:**
+<img width="1912" height="947" alt="Output_image4" src="https://github.com/user-attachments/assets/f25d2c75-78f9-44db-905c-14671ea669ca" />
 
-> Upload screenshot here
+<img width="1912" height="823" alt="Output_image5" src="https://github.com/user-attachments/assets/15a98ae1-6446-466e-91e1-56768c961105" />
 
-![Database Creation](screenshots/01_database_creation.png)
+<img width="1917" height="837" alt="Output_image6" src="https://github.com/user-attachments/assets/9d52c798-3ddb-4345-800d-df7e0eeb39fa" />
 
----
+<img width="1915" height="842" alt="Output_image7" src="https://github.com/user-attachments/assets/aabaf978-2be9-468f-8a5f-64b9a4fcebb8" />
 
-## 2. Tables Created
+<img width="1912" height="882" alt="Output_image8" src="https://github.com/user-attachments/assets/463363f3-11e4-42f0-b562-62fab7f3c7d1" />
 
-**Query:**
+<img width="1915" height="796" alt="Output_image9" src="https://github.com/user-attachments/assets/40b7843c-bfa4-4c94-b533-2188c956d08b" />
 
-```sql
-SHOW TABLES;
-```
+<img width="1917" height="960" alt="Output_image10" src="https://github.com/user-attachments/assets/dd444413-b7f3-4e4a-add3-37d27f0baf40" />
 
-**Output Screenshot:**
+<img width="1917" height="842" alt="Output_image11" src="https://github.com/user-attachments/assets/7693fea7-0137-4d38-9af2-d44baf8dda8b" />
 
-> Upload screenshot here
+<img width="1912" height="905" alt="Output_image12" src="https://github.com/user-attachments/assets/c8f8f26a-1018-4b31-8563-5438620038a5" />
 
-![Tables](screenshots/02_tables.png)
+<img width="1912" height="760" alt="Output_image13" src="https://github.com/user-attachments/assets/1546bcd1-fdbc-4f6d-b4c1-8f22a7e73be7" />
 
----
+<img width="1917" height="950" alt="Output_image14" src="https://github.com/user-attachments/assets/f2ef367f-c70f-4bc1-8fc9-6b2ffe28fd97" />
 
-## 3. Product Data
+<img width="1910" height="956" alt="Output_image15" src="https://github.com/user-attachments/assets/5bc614e7-e9ca-4645-ae22-610950b0a14e" />
 
-**Query:**
+<img width="1910" height="941" alt="Output_image16" src="https://github.com/user-attachments/assets/94824d3f-f16d-4651-b5f9-963b059d69ef" />
 
-```sql
-SELECT * FROM products;
-```
+<img width="1917" height="948" alt="Output_image17" src="https://github.com/user-attachments/assets/d662d1a7-07f7-4131-8429-3de321e9428e" />
 
-**Output Screenshot:**
+<img width="1913" height="932" alt="Output_image18" src="https://github.com/user-attachments/assets/3e9fbef1-8ffa-4451-b39e-8bd1d4b1b08a" />
 
-> Upload screenshot here
+<img width="1917" height="963" alt="Output_image19" src="https://github.com/user-attachments/assets/1d467c46-d2fc-40f9-92ca-9a8e477c7374" />
 
-![Product Data](screenshots/03_product_data.png)
+<img width="1917" height="818" alt="Output_image20" src="https://github.com/user-attachments/assets/47b23d48-c91a-43c8-b0c1-2e4fa2921980" />
 
----
+<img width="1916" height="918" alt="Output_image21" src="https://github.com/user-attachments/assets/3abf0800-173c-40ae-bb2e-4676cb1090b5" />
 
-## 4. Product Catalog Report
+<img width="1917" height="922" alt="Output_image22" src="https://github.com/user-attachments/assets/dcb3d0bc-8109-479a-bfe4-78d7cc22ce74" />
 
-**Output Screenshot:**
+<img width="1915" height="821" alt="Output_image23" src="https://github.com/user-attachments/assets/caa97b19-081a-4626-a00b-44f9f9ec367b" />
 
-> Upload screenshot here
+<img width="1917" height="873" alt="Output_image24" src="https://github.com/user-attachments/assets/b2bc4fea-d194-4ffc-b92d-dbca4c0ac81b" />
 
-![Product Catalog](screenshots/04_product_catalog.png)
-
----
-
-## 5. Low Stock Products
-
-**Output Screenshot:**
-
-> Upload screenshot here
-
-![Low Stock](screenshots/05_low_stock.png)
-
----
-
-## 6. Order Details Report
-
-**Output Screenshot:**
-
-> Upload screenshot here
-
-![Order Details](screenshots/06_order_details.png)
-
----
-
-## 7. Product Sales & Revenue
-
-**Output Screenshot:**
-
-> Upload screenshot here
-
-![Sales Revenue](screenshots/07_sales_revenue.png)
-
----
-
-## 8. Customer Spending Report
-
-**Output Screenshot:**
-
-> Upload screenshot here
-
-![Customer Spending](screenshots/08_customer_spending.png)
-
----
-
-## 9. Order Status Summary
-
-**Output Screenshot:**
-
-> Upload screenshot here
-
-![Order Status](screenshots/09_order_status.png)
-
----
-
-## 10. Transaction — COMMIT
-
-**Output Screenshot:**
-
-> Upload screenshot here
-
-![Commit](screenshots/10_commit.png)
-
----
-
-## 11. Transaction — ROLLBACK
-
-**Output Screenshot:**
-
-> Upload screenshot here
-
-![Rollback](screenshots/11_rollback.png)
-
----
-
-## 12. Final Product Performance Report
-
-**Output Screenshot:**
-
-> Upload screenshot here
-
-![Final Product Performance](screenshots/12_final_product_performance.png)
-
----
 
 # 📁 Recommended GitHub Repository Structure
 
