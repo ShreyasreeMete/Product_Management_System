@@ -813,8 +813,6 @@ Possible future improvements include:
 
 **Shreyasree Mete**
 
-GitHub: **<YOUR_GITHUB_PROFILE_URL>**
-
 ---
 
 ## ⭐ Project Summary
